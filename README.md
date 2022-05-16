@@ -5,5 +5,11 @@
 - [Spring Initializr](https://start.spring.io)
 
 
-> "Spring offers a container, reffered to as the Spring APplication context. It creates and manages application components."
-> 
+> "Spring offers a container, reffered to as the Spring Application context. It creates and manages application components."
+> Data persistance options
+> microserve support
+> reactive programming model
+> runtime monitoring 
+> security framework
+
+
