@@ -36,3 +36,5 @@ How to make a New Project:
 Create New Project: 
 
 ![new](https://user-images.githubusercontent.com/83961643/168550324-01aa74f7-3ed3-4c68-a365-e93e2cd002c9.jpeg)
+
+Click Next and wizard takes you to setting up dependencies: 
