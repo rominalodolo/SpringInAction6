@@ -184,3 +184,15 @@ Watch this [tuotorial](https://www.youtube.com/watch?v=Xx3urDhrN_M) if you aren'
 ![install](https://user-images.githubusercontent.com/83961643/168582477-9682c8d6-65b2-4421-9e12-6f603baa227a.jpeg)
 ![java](https://user-images.githubusercontent.com/83961643/168582480-031aa57e-ca49-4962-8a34-487aa40dce52.jpeg)
 ![waiting](https://user-images.githubusercontent.com/83961643/168582482-7d31ae29-07b4-450c-be5f-83332f3c3c5b.jpeg)
+
+
+## Simple Logging Facade for Java[SLF4J](https://www.slf4j.org)
+
+Serves as a simple facade or abstraction for various logging frameworks (e.g. java.util.logging, logback, log4j) allowing the end user to plug in the desired logging framework at deployment time.
+[READ THE MANUAL](https://www.slf4j.org/manual.html)
+
+![concrete-bindings](https://user-images.githubusercontent.com/83961643/168597598-696d8c16-260c-4dd3-bcda-a248614d4a97.png)
+
+![summary](https://user-images.githubusercontent.com/83961643/168597627-2da192df-1b17-49e5-bb91-6b7363f0317e.jpeg)
+
+
