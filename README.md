@@ -21,6 +21,7 @@
 2. View: Handles layout and display.
 3. Controller: Routes commands to the model and view parts.
 
+![model-view-controller-light-blue](https://user-images.githubusercontent.com/83961643/168578607-8e9b608b-4c8d-4d78-9924-4100c01c7cb4.png)
 
 
 [Annotation note reference](https://springframework.guru/spring-framework-annotations/)
@@ -159,5 +160,7 @@ Download & open to install:
 
 ## Spring Native 
 
+Instead of starting from scratch, import chapter 1 code as a starter for chapter 2:
 
+![imports](https://user-images.githubusercontent.com/83961643/168578745-f3a7d31b-2d77-459e-acd1-f0b2e0f5181e.jpeg)
 
