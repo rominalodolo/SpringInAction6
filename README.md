@@ -28,5 +28,8 @@ This annotation is used at the method level. `@Bean` annotation works with `@Con
 Spring Initializer:
 ![init](https://user-images.githubusercontent.com/83961643/168547650-8081738f-3227-4faa-b559-9096aeb5ec10.jpeg)
 
-How to make a new project: 
+How to make a New Project: 
 ![grsb](https://user-images.githubusercontent.com/83961643/168549660-d9669ab9-5245-4eb5-88e2-035b52e9a935.jpg)
+
+Create New Project: 
+![new](https://user-images.githubusercontent.com/83961643/168550324-01aa74f7-3ed3-4c68-a365-e93e2cd002c9.jpeg)
