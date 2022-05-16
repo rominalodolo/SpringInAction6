@@ -71,3 +71,29 @@ Create a new class in the tacos package:
 Adding the code to the home controller class:
 
 ![homecontroller](https://user-images.githubusercontent.com/83961643/168560739-d2ffd9c4-1757-4666-b93d-b807b1fc64e7.jpeg)
+
+
+[Annotation note reference](https://springframework.guru/spring-framework-annotations/)
+ 
+@Component
+
+This annotation is used on classes to indicate a Spring component. The `@Component` annotation marks the Java class as a bean or say component so that the component-scanning mechanism of Spring can add into the application context.
+
+@Service 
+
+This annotation is used on a class. The `@Service` marks a Java class that performs some service, such as execute business logic, perform calculations and call external APIs. This annotation is a specialized form of the `@Component` annotation intended to be used in the service layer.
+
+@Repository 
+
+This annotation is used on Java classes which directly access the database. The `@Repository` annotation works as marker for any class that fulfills the role of repository or Data Access Object.
+
+This annotation has a automatic translation feature. For example, when an exception occurs in the `@Repository` there is a handler for that exception and there is no need to add a try catch block.
+
+@GetMapping
+
+This annotation is used for mapping HTTP GET requests onto specific handler methods. `@GetMapping` is a composed annotation that acts as a shortcut for `@RequestMapping`(method = RequestMethod.GET)
+
+
+Create a new HTML file in the template folder under src:
+![html](https://user-images.githubusercontent.com/83961643/168561961-12d99d4d-007d-4d67-9657-5263fd53624d.jpeg)
+
