@@ -110,3 +110,8 @@ Create a Test File:
 
 Run the test in IDE: 
 `$ mvnw test`
+
+
+Run Spring Boot App:
+
+![runspringbootapp](https://user-images.githubusercontent.com/83961643/168565373-1f163d9d-30b5-4734-a32a-270a3da99d5c.jpeg)
