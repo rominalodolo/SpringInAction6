@@ -14,6 +14,15 @@
 > - Security framework
 
 
+[MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic. It emphasizes a separation between the software's business logic and display. This "separation of concerns" provides for a better division of labor and improved maintenance. Some other design patterns are based on MVC, such as MVVM (Model-View-Viewmodel), MVP (Model-View-Presenter), and MVW (Model-View-Whatever).
+
+1. Model: Manages data and business logic.
+2. View: Handles layout and display.
+3. Controller: Routes commands to the model and view parts.
+
+
+
 [Annotation note reference](https://springframework.guru/spring-framework-annotations/)
 
 @Configuration 
@@ -132,4 +141,23 @@ Download & open to install:
 
 > Insight into the data your application is working with: 
 > http://localhost:8080/h2-console 
+
+
+### Spring Dependencies:
+
+## The Core Spring Framework
+
+## Spring Boot
+
+## Spring Data
+
+## Spring Security 
+
+## Spring Integration and Spring Batch
+
+## Spring CLoud 
+
+## Spring Native 
+
+
 
