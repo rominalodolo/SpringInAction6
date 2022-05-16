@@ -66,3 +66,8 @@ Running the Maven Test File:
 Create a new class in the tacos package: 
 
 ![createclass](https://user-images.githubusercontent.com/83961643/168559951-557d582f-b9a2-482c-a787-74fb0ad44130.jpeg)
+
+
+Adding the code to the home controller class:
+
+![homecontroller](https://user-images.githubusercontent.com/83961643/168560739-d2ffd9c4-1757-4666-b93d-b807b1fc64e7.jpeg)
