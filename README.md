@@ -176,3 +176,10 @@ Add -> Spring -> Add Starters -> SELECT POM file
 ![springlombokstarter](https://user-images.githubusercontent.com/83961643/168580226-f08abe24-c384-4dc0-9491-9ba3adda44ea.jpeg)
 ![clickpom](https://user-images.githubusercontent.com/83961643/168580235-f5d1550c-0662-407b-a3f6-0607382964c0.jpeg)
 
+
+Watch this [tuotorial](https://www.youtube.com/watch?v=Xx3urDhrN_M) if you aren't sure how to save your jar file that you have downloaded from the [Project Lombok](https://projectlombok.org/download) web page. 
+
+![jar](https://user-images.githubusercontent.com/83961643/168582462-f7ec2ca4-ac8d-4ae8-99e6-9c691f1e1f7c.jpeg)
+![install](https://user-images.githubusercontent.com/83961643/168582477-9682c8d6-65b2-4421-9e12-6f603baa227a.jpeg)
+![java](https://user-images.githubusercontent.com/83961643/168582480-031aa57e-ca49-4962-8a34-487aa40dce52.jpeg)
+![waiting](https://user-images.githubusercontent.com/83961643/168582482-7d31ae29-07b4-450c-be5f-83332f3c3c5b.jpeg)
