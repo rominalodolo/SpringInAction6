@@ -120,3 +120,16 @@ Open your borswer and search localhost:8080
 
 ![localhost8080](https://user-images.githubusercontent.com/83961643/168565703-334f47fb-ff14-4a83-9e03-8cb49ec3053d.jpeg)
 
+
+[How do I install and use the browser extensions?](http://livereload.com/extensions/)
+Download & open to install:
+
+- [Safari extension 2.1.0](http://download.livereload.com/2.1.0/LiveReload-2.1.0.safariextz) — note: due to Safari API limitations, browser extension does not work with file: URLs; if you’re working with local files via file: URL, please use Chrome or insert the SCRIPT snippet.
+
+- [Chrome extension on the Chrome Web Store](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) — if you want to use it with local files, be sure to enable “Allow access to file URLs” checkbox in Tools > Extensions > LiveReload after installation.
+
+- [Firefox extension 2.1.0](https://addons.mozilla.org/en-US/firefox/addon/livereload/) from addons.mozilla.org.
+
+> Insight into the data your application is working with: 
+> http://localhost:8080/h2-console 
+
