@@ -97,3 +97,9 @@ This annotation is used for mapping HTTP GET requests onto specific handler meth
 Create a new HTML file in the template folder under src:
 ![html](https://user-images.githubusercontent.com/83961643/168561961-12d99d4d-007d-4d67-9657-5263fd53624d.jpeg)
 
+
+
+Add your taco image and images folder to the static folder:!
+
+[images](https://user-images.githubusercontent.com/83961643/168562438-97bfe10b-2e2c-4538-af77-a6c149512b22.jpeg)
+
