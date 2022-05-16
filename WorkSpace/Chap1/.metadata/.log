@@ -44,3 +44,48 @@ Binding(ALT+COMMAND+R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:18.030
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:18.031
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@335a171f[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=561)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:18.037
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:18.157
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.115
+!MESSAGE Boot LS startup time from start to initialized: 5059ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.315
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IJidVZEEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.319
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.321
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.322
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.322
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.323
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IJidVZEE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.340
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.341
+!MESSAGE buffering callback sts4.classpath.IJidVZEE taco-cloud false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.341
+!MESSAGE executing callback sts4.classpath.IJidVZEE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-16 10:51:23.946
+!MESSAGE executing callback sts4.classpath.IJidVZEE SUCCESS [done]
