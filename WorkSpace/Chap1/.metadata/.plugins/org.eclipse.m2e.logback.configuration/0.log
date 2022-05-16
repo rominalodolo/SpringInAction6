@@ -781,3 +781,12 @@
 2022-05-16 11:32:39,615 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-05-16 11:32:39,616 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-05-16 11:32:39,616 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap1/taco-cloud/src/test/resources
+2022-05-16 11:40:26,784 [Worker-39: Launching Executing test in _Users_rominalodolo_Desktop_GitHub_JAVA_SpringInAction6_WorkSpace_Chap1_taco-cloud] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap1/taco-cloud
+2022-05-16 11:40:26,785 [Worker-39: Launching Executing test in _Users_rominalodolo_Desktop_GitHub_JAVA_SpringInAction6_WorkSpace_Chap1_taco-cloud] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B test -Dstyle.color=always
+2022-05-16 11:40:40,909 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 11:40:40,909 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 11:40:40,911 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-16 11:40:40,923 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap1/taco-cloud/src/test/resources
