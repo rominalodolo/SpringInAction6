@@ -164,3 +164,15 @@ Instead of starting from scratch, import chapter 1 code as a starter for chapter
 
 ![imports](https://user-images.githubusercontent.com/83961643/168578745-f3a7d31b-2d77-459e-acd1-f0b2e0f5181e.jpeg)
 
+Please note that doing it this way will sow down your machince and will take a while to load. Rather start a new file or build on the pervious version. 
+
+
+## Lombok
+
+[Lombok tutorial](https://projectlombok.org/#)
+
+Add -> Spring -> Add Starters -> SELECT POM file 
+
+![springlombokstarter](https://user-images.githubusercontent.com/83961643/168580226-f08abe24-c384-4dc0-9491-9ba3adda44ea.jpeg)
+![clickpom](https://user-images.githubusercontent.com/83961643/168580235-f5d1550c-0662-407b-a3f6-0607382964c0.jpeg)
+
