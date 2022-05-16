@@ -790,3 +790,10 @@
 2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-05-16 11:40:40,927 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap1/taco-cloud/src/test/resources
+2022-05-16 11:43:42,125 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 11:43:42,125 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 11:43:42,127 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-16 11:43:42,140 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-05-16 11:43:42,148 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 11:43:42,148 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-16 11:43:42,148 [Worker-43: Launching taco-cloud - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap1/taco-cloud/src/test/resources
