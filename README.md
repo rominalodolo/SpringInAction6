@@ -56,7 +56,9 @@ Open the Taco Test File to view this code:
 
 ![taco](https://user-images.githubusercontent.com/83961643/168555611-c773fe43-6b69-4f13-bc08-610bf5fda0c0.jpeg)
 
-Runing the Maven Test File:
+Running the Maven Test File:
+
+![runtest](https://user-images.githubusercontent.com/83961643/168558725-05798f8e-64b1-4314-960b-f5b484655f88.jpeg)
 
 ![run](https://user-images.githubusercontent.com/83961643/168558378-3bb110c4-f9ff-4ed6-a6c9-d685e0aaf698.jpeg)
 
