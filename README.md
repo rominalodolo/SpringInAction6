@@ -6,10 +6,11 @@
 
 
 > "Spring offers a container, reffered to as the Spring Application context. It creates and manages application components."
-> Data persistance options
-> microserve support
-> reactive programming model
-> runtime monitoring 
-> security framework
+> 
+> - Data persistance options
+> - Microserve support
+> - Reactive programming model
+> - Runtime monitoring 
+> - Security framework
 
 
