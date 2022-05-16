@@ -21,7 +21,8 @@
 2. View: Handles layout and display.
 3. Controller: Routes commands to the model and view parts.
 
-![model-view-controller-light-blue](https://user-images.githubusercontent.com/83961643/168578607-8e9b608b-4c8d-4d78-9924-4100c01c7cb4.png)
+![Data-3](https://user-images.githubusercontent.com/83961643/168585490-596f7939-338f-465b-a788-c44d0c16aa7d.png)
+
 
 
 [Annotation note reference](https://springframework.guru/spring-framework-annotations/)
