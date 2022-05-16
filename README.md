@@ -38,3 +38,9 @@ Create New Project:
 ![new](https://user-images.githubusercontent.com/83961643/168550324-01aa74f7-3ed3-4c68-a365-e93e2cd002c9.jpeg)
 
 Click Next and wizard takes you to setting up dependencies: 
+![dev](https://user-images.githubusercontent.com/83961643/168551501-b9f187cc-1c50-4aa4-a9d5-84f196b761fe.jpeg)
+
+Then search for the missing dependencies: 
+
+![search](https://user-images.githubusercontent.com/83961643/168551811-9ef92f8f-796a-49f7-b9be-04944f7df367.jpeg)
+
