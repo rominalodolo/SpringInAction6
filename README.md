@@ -108,4 +108,5 @@ Create a Test File:
 
 ![test class](https://user-images.githubusercontent.com/83961643/168563958-b700961e-61c1-435c-81be-88e014e80f63.jpeg)
 
-
+Run the test in IDE: 
+`$ mvnw test`
