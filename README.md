@@ -27,3 +27,28 @@ This annotation is used at the method level. `@Bean` annotation works with `@Con
 
 Spring Initializer:
 ![init](https://user-images.githubusercontent.com/83961643/168547650-8081738f-3227-4faa-b559-9096aeb5ec10.jpeg)
+
+How to make a New Project: 
+
+![grsb](https://user-images.githubusercontent.com/83961643/168549660-d9669ab9-5245-4eb5-88e2-035b52e9a935.jpg)
+
+
+Create New Project: 
+
+![new](https://user-images.githubusercontent.com/83961643/168550324-01aa74f7-3ed3-4c68-a365-e93e2cd002c9.jpeg)
+
+Click Next and wizard takes you to setting up dependencies: 
+![dev](https://user-images.githubusercontent.com/83961643/168551501-b9f187cc-1c50-4aa4-a9d5-84f196b761fe.jpeg)
+
+Then search for the missing dependencies eg. Spring Web and add it: 
+
+![search](https://user-images.githubusercontent.com/83961643/168551811-9ef92f8f-796a-49f7-b9be-04944f7df367.jpeg)
+
+How the project looks once you click Finish and it has finished loading: 
+
+![project](https://user-images.githubusercontent.com/83961643/168552351-8bd9a05d-7682-4908-887c-b0419992d1ad.jpeg)
+
+More about the files: 
+
+![files](https://user-images.githubusercontent.com/83961643/168552485-d0c2d252-a011-44ce-bfcc-652be3a553d7.jpeg)
+
