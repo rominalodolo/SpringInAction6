@@ -115,3 +115,8 @@ Run the test in IDE:
 Run Spring Boot App:
 
 ![runspringbootapp](https://user-images.githubusercontent.com/83961643/168565373-1f163d9d-30b5-4734-a32a-270a3da99d5c.jpeg)
+
+Open your borswer and search localhost:8080
+
+![localhost8080](https://user-images.githubusercontent.com/83961643/168565703-334f47fb-ff14-4a83-9e03-8cb49ec3053d.jpeg)
+
