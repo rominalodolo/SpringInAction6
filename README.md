@@ -62,3 +62,7 @@ Running the Maven Test File:
 
 ![run](https://user-images.githubusercontent.com/83961643/168558378-3bb110c4-f9ff-4ed6-a6c9-d685e0aaf698.jpeg)
 
+
+Create a new class in the tacos package: 
+
+![createclass](https://user-images.githubusercontent.com/83961643/168559951-557d582f-b9a2-482c-a787-74fb0ad44130.jpeg)
