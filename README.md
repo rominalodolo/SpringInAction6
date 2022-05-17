@@ -153,7 +153,31 @@ Download & open to install:
 
 ## Spring Data
 
-## Spring Security 
+## [Spring Security](https://www.baeldung.com/spring-security-with-maven)
+ ### spring-security-core
+ `<properties>
+    <spring-security.version>5.3.4.RELEASE</spring-security.version>
+    <spring.version>5.2.8.RELEASE</spring.version>
+</properties>
+<dependency>
+    <groupId>org.springframework.security</groupId>
+    <artifactId>spring-security-core</artifactId>
+    <version>${spring-security.version}</version>
+</dependency>`
+ 
+ ### spring-security-web
+ `<dependency>
+    <groupId>org.springframework.security</groupId>
+    <artifactId>spring-security-web</artifactId>
+    <version>${spring-security.version}</version>
+</dependency>`
+
+ ### spring-security-config 
+`<dependency>
+    <groupId>org.springframework.security</groupId>
+    <artifactId>spring-security-config</artifactId>
+    <version>${spring-security.version}</version>
+</dependency>`
 
 ## Spring Integration and Spring Batch
 
