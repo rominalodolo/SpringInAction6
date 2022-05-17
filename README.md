@@ -267,3 +267,20 @@ This is the new code you will have in your file:
 `@CreditCardNumber` 
 `ccNumber` property
 [Luhn algorithm check](https://www.creditcardvalidator.org/articles/luhn-algorithm)
+
+#### How to calculate a Luhn checksum:
+> 1. From the rightmost digit (the check digit), move left and double the value of every second digit; if doubled number is greater than 9 (e.g., 7 × > 2 = 14), then subtract 9 from the product (e.g., 14: 14 - 9 = 5). 
+> 2. Sum of all the digits in the newly calculated number.
+> 3. Multiply the sum by 9, the Luhn check digit is the rightmost digit of the result (e.g, the result modulo 10).
+
+In the following example, we use a sample credit card number "7992739871", with an unknown Luhn check digit at the end, displayed as 7992739871x:
+![luhn](https://user-images.githubusercontent.com/83961643/168764562-178d6ace-e6fd-4cf7-a15b-98f2bf1ee360.jpeg)
+
+The sum of all the digits in the third row above is 67+x.
+
+We still need to calculate the check digit, X. The check digit can be obtained by computing the sum of the non-check digits then computing 9 times that value modulo 10. For our example, the equation is 67 × 9 mod 10. Broken down in more detail:
+
+1. Compute the sum of the non-check digits (67).
+2. Multiply by 9 (603). 
+3. The units digit (3) is the check digit. Thus, x=3.
+
