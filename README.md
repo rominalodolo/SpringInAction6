@@ -246,3 +246,15 @@ The Taco OrderForm.html File
 
 Spring supports the JavaBean Validation API [JSR 303](https://jcp.org/en/jsr/detail?id=303) 
 ![java](https://user-images.githubusercontent.com/83961643/168760101-a2dfb833-ae8b-479d-bc91-55a3bd46e8bd.jpeg)
+
+
+## Adding a Valedation dependency to your pom.xml file:
+Right click on your pom file and say Spring -> Add Starters 
+Then you will see this pop up 
+![validation](https://user-images.githubusercontent.com/83961643/168761553-405902f7-898e-4efd-8fec-1b263909c59c.jpeg)
+![step](https://user-images.githubusercontent.com/83961643/168761595-5caaa82d-d0af-4fb8-8910-4f072b0f0d9a.jpeg)
+
+
+![pom](https://user-images.githubusercontent.com/83961643/168761642-1368b634-d34b-4b91-b2c8-4fd89ab737f2.jpeg)
+![added](https://user-images.githubusercontent.com/83961643/168761663-446cfab1-ed46-45b4-b7fb-fa2013fa99ea.jpeg)
+
