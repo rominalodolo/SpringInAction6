@@ -286,5 +286,7 @@ We still need to calculate the check digit, X. The check digit can be obtained b
 
 ## Domain Driven Design (DDD) 
 Core concepts of DDD: Aggregates and aggregate roots - a design approach that promotes the idea that the structure and language of software code should match the business domain.
-![ddd](https://user-images.githubusercontent.com/83961643/168800513-405bc4b9-4497-4f14-bf4e-a6d5c58aa302.jpeg)
+
+![Data-3](https://user-images.githubusercontent.com/83961643/168805609-b8afe6f2-05d9-4ea7-8e40-ed6111a4d3b0.png)
+
 Read for more info on the topic [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
