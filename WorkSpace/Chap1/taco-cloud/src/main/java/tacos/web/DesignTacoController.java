@@ -14,6 +14,7 @@ import lombok.extern.slf4j.Slf4j;
 import tacos.Ingredient;
 import tacos.Ingredient.Type;
 import tacos.Taco;
+import tacos.TacoOrder;
 
 @Slf4j
 @Controller
@@ -47,6 +48,13 @@ public class DesignTacoController {
 	@GetMapping
 	public String showDesignForm() {
 		return "design";
+	}
+
+	@PostMapping
+	public String processTaco(Taco taco, @ModelAttribute TacoOrder tacoOrder) {
+		tacoOrder.addTaco(taco);
+		log.info("Processing taco: {}", taco);
+		return "redirect:/orders/current";
 	}
 
 	private Iterable<Ingredient> filterByType(List<Ingredient> ingredients, Type type) {
