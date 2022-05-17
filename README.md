@@ -200,9 +200,13 @@ Serves as a simple facade or abstraction for various logging frameworks (e.g. ja
 
 - JavaServer Pages (JSP)
 - Thymeleaf 
+
 `<p th:text="${message}">placeholder message</p>`:Thymeleaf templates are just HTML with some additional element attributes that guide a template in rendering request data. 
+
 `${}`: operator tells it to use the value of a request attribute ("message", in this case).
+
 `th:each`:iterates over a collection of elements, rendering the HTML once for each item in the collection.
+
 - FreeMarker
 - Mustache
 - Groovy-based templates
