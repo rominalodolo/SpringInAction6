@@ -34,6 +34,8 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
+		
+		
 		<!-- <dependency> <groupId>com.h2database</groupId> <artifactId>h2</artifactId> 
 			<scope>runtime</scope> </dependency> -->
 		<dependency>
@@ -68,11 +70,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<dependency>
-		<groupId>org.seleniumhq.selenium</groupId>
-		<artifactId>htmlunit-driver</artifactId>
-		<scope>test</scope>
-	</dependency>
 
 
 	<build>
@@ -91,5 +88,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
