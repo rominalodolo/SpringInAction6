@@ -1034,3 +1034,45 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 13:56:15.105
 !MESSAGE executing callback sts4.classpath.XyIcVLkV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:08:19.790
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:08:19.848
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:08:19.850
+!MESSAGE buffering callback sts4.classpath.XyIcVLkV taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:08:19.851
+!MESSAGE executing callback sts4.classpath.XyIcVLkV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:08:19.904
+!MESSAGE executing callback sts4.classpath.XyIcVLkV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:20.741
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:20.745
+!MESSAGE classpath=86 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:20.752
+!MESSAGE buffering callback sts4.classpath.XyIcVLkV taco-cloud false 86
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:20.752
+!MESSAGE executing callback sts4.classpath.XyIcVLkV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:20.820
+!MESSAGE executing callback sts4.classpath.XyIcVLkV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:52.320
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XyIcVLkV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:52.321
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.XyIcVLkV
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:52.322
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-18 14:14:52.322
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XyIcVLkV => OK
