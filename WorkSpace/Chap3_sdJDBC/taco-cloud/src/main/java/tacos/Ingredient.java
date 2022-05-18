@@ -12,22 +12,22 @@ import lombok.NoArgsConstructor;
 @Data
 @Table
 @AllArgsConstructor
-@NoArgsConstructor(access=AccessLevel.PRIVATE, force=true)
+@NoArgsConstructor(access = AccessLevel.PRIVATE, force = true)
 public class Ingredient implements Persistable<String> {
 
-  @Id
-  private String id;
+	@Id
+	private String id;
 
-  private String name;
-  private Type type;
+	private String name;
+	private Type type;
 
-  @Override
+	@Override
 	public boolean isNew() {
 		return true;
 	}
 
-  public enum Type {
-    WRAP, PROTEIN, VEGGIES, CHEESE, SAUCE
-  }
+	public enum Type {
+		WRAP, PROTEIN, VEGGIES, CHEESE, SAUCE
+	}
 
 }
