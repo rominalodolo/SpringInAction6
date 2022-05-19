@@ -338,3 +338,8 @@ More YAML examples and usage:
 [1](https://stackabuse.com/reading-and-writing-yaml-files-in-java-with-jackson/)
 [2](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 [3](https://phoenixnap.com/blog/what-is-yaml-with-examples)
+
+
+## REST services
+HTTPie is making APIs simple and intuitive for those building the tools of our time.
+[httpie](https://httpie.io/)
