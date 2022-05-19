@@ -307,6 +307,9 @@ Go into your library and choose add extrnal jar and select your jar file.
 
 Watch this video if you are struggling with your selenium dependency: [Tutorial](https://www.youtube.com/watch?v=beWEdwfjF28)
 
+What the new login form looks like after Chapter 5
+![workinglogin](https://user-images.githubusercontent.com/83961643/169278662-ddbe9f4d-3fc2-4585-977a-8c9e702c30ab.jpeg)
+
 
 ## Configuration
 
@@ -316,3 +319,4 @@ as beans in the Spring application context and how they should be injected into
 each other
 > - Property injection: Configuration that sets values on beans in the Spring application
 context
+![diagram](https://user-images.githubusercontent.com/83961643/169278563-8855f052-1577-46f2-807a-67794002006b.jpeg)
