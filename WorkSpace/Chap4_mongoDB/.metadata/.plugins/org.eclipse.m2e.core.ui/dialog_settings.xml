@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="/Users/rominalodolo/Downloads/tacos-sd-mongodb"/>
+			<item value="/Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

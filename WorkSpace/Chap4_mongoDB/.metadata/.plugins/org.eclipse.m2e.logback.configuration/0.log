@@ -1,14 +1,35 @@
-2022-05-19 09:38:48,690 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2022-05-19 09:39:25,506 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ /Users/rominalodolo/Downloads/tacos-sd-mongodb/pom.xml.
-2022-05-19 09:39:28,247 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/main/java
-2022-05-19 09:39:28,248 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
-2022-05-19 09:39:28,250 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud-sd-mongodb/src/main/resources
-2022-05-19 09:39:28,253 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud-sd-mongodb/src/test/java
-2022-05-19 09:39:29,069 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
-2022-05-19 09:39:34,028 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2022-05-19 09:39:34,029 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
-2022-05-19 09:39:34,046 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
-2022-05-19 09:39:34,079 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
-2022-05-19 09:39:34,098 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2022-05-19 09:39:34,098 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
-2022-05-19 09:39:34,098 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Downloads/tacos-sd-mongodb/src/test/resources
+2022-05-19 11:02:08,716 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-19 11:03:04,027 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb/pom.xml.
+2022-05-19 11:03:06,911 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos-sd-mongodb/src/main/java
+2022-05-19 11:03:06,913 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos-sd-mongodb/src/main/resources
+2022-05-19 11:03:06,917 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos-sd-mongodb/src/main/resources
+2022-05-19 11:03:06,920 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos-sd-mongodb/src/test/java
+2022-05-19 11:03:08,353 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2022-05-19 11:03:14,634 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:03:14,634 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:03:14,641 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-19 11:03:14,686 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-05-19 11:03:14,887 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:03:14,887 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:03:14,887 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb/src/test/resources
+2022-05-19 11:04:51,161 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:04:51,161 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:04:51,166 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-19 11:04:51,169 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-05-19 11:04:51,181 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:04:51,181 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:04:51,181 [Worker-9: Launching tacos-sd-mongodb - TacoCloudApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb/src/test/resources
+2022-05-19 11:05:21,419 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-19 11:05:21,925 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud-sd-mongodb:0.0.4-SNAPSHOT @ /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb/pom.xml.
+2022-05-19 11:05:22,586 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos-sd-mongodb/src/main/java
+2022-05-19 11:05:22,586 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos-sd-mongodb/src/main/resources
+2022-05-19 11:05:22,587 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos-sd-mongodb/src/main/resources
+2022-05-19 11:05:22,588 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos-sd-mongodb/src/test/java
+2022-05-19 11:05:24,114 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-05-19 11:05:25,602 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:05:25,603 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:05:25,604 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-19 11:05:25,644 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-05-19 11:05:25,659 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-19 11:05:25,659 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-19 11:05:25,659 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rominalodolo/Desktop/GitHub/JAVA/SpringInAction6/WorkSpace/Chap4_mongoDB/tacos-sd-mongodb/src/test/resources
