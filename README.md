@@ -290,3 +290,19 @@ Core concepts of DDD: Aggregates and aggregate roots - a design approach that pr
 ![Data-3](https://user-images.githubusercontent.com/83961643/168805609-b8afe6f2-05d9-4ea7-8e40-ed6111a4d3b0.png)
 
 Read for more info on the topic [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.dddcommunity.org/book/evans_2003/)
+
+
+## Selenium jar 
+Download your selenium jar file then follow these steps..
+
+in your menu select build path
+
+![seleniumbuildpath](https://user-images.githubusercontent.com/83961643/169252606-fc302e56-b3ad-4188-8fc7-48d443f22c82.jpeg)
+
+Go into your library and choose add extrnal jar and select your jar file.
+
+![library_addExternalJar](https://user-images.githubusercontent.com/83961643/169252631-fb6e054f-414d-4f29-a78d-4b35c647393d.jpeg)
+
+![chooseyourseleniumjar](https://user-images.githubusercontent.com/83961643/169252633-818f940e-43c7-4d4e-a93b-608048db289a.jpeg)
+
+Watch this video if you are struggling with your selenium dependency: [Tutorial](https://www.youtube.com/watch?v=beWEdwfjF28)
