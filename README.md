@@ -347,3 +347,8 @@ HTTPie is making APIs simple and intuitive for those building the tools of our t
 
 Testing the api 
 ![api](https://user-images.githubusercontent.com/83961643/169297586-825ed5bd-08aa-4c8d-bc02-a972f28a2824.jpeg)
+
+CommandLine test in Terminal 
+
+![commandlinetest](https://user-images.githubusercontent.com/83961643/169298049-280470c7-ff6f-4389-8cf9-9a4957d9fa2f.jpeg)
+
