@@ -333,3 +333,8 @@ _Known as ain’t markup language OR yet another markup language_
 > - YAML files use a .yml or .yaml extension. 
 > - The structure of a YAML file is a map or a list.
 > - Contains scalars, which are arbitrary data (encoded in Unicode) that can be used as values such as strings, integers, dates, numbers, or booleans.
+
+More YAML examples and usage:
+[1](https://stackabuse.com/reading-and-writing-yaml-files-in-java-with-jackson/)
+[2](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
+[3](https://phoenixnap.com/blog/what-is-yaml-with-examples)
