@@ -44,3 +44,183 @@ Binding(ALT+COMMAND+R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-05-19 09:43:23.790
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:33.437
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:33.438
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@252e7c2e[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=561)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:33.441
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:33.510
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.206
+!MESSAGE Boot LS startup time from start to initialized: 4750ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.429
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zkhEzYfyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.432
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.435
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.436
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.436
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.437
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zkhEzYfy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.444
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.446
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:38.447
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:43:39.010
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:04.315
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:04.332
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:04.335
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:04.336
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:04.385
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:06.310
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:06.317
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:06.320
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:06.321
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:06.363
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:13.517
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:13.522
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:13.524
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:13.525
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:45:13.544
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-05-19 09:45:14.718
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:46:39.616
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:46:39.623
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:46:39.626
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:46:39.626
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:46:39.660
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:03.927
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:03.932
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:03.934
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:03.936
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:03.966
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:16.357
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:16.361
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:16.363
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:16.364
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:16.396
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:17.698
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:17.702
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:17.704
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:17.705
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:17.731
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:29.226
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:29.231
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:29.234
+!MESSAGE buffering callback sts4.classpath.zkhEzYfy taco-cloud false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:29.236
+!MESSAGE executing callback sts4.classpath.zkhEzYfy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-19 09:47:29.312
+!MESSAGE executing callback sts4.classpath.zkhEzYfy SUCCESS [done]
