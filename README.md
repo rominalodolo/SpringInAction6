@@ -324,7 +324,8 @@ context
 
 ## YAML 
 
-_[Known as  ain’t markup language OR yet another markup language](https://www.redhat.com/en/topics/automation/what-is-yaml)
+_Known as ain’t markup language OR yet another markup language_
+[More Info Here](https://www.redhat.com/en/topics/automation/what-is-yaml)
 
 > - Features that come from Perl, C, XML, HTML, and other programming languages. YAML is also a superset of JSON, so JSON files are valid in YAML.
 > - Python-style indentation to indicate nesting. 
