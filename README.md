@@ -343,3 +343,7 @@ More YAML examples and usage:
 ## REST services
 HTTPie is making APIs simple and intuitive for those building the tools of our time.
 [httpie](https://httpie.io/)
+
+
+Testing the api 
+![api](https://user-images.githubusercontent.com/83961643/169297586-825ed5bd-08aa-4c8d-bc02-a972f28a2824.jpeg)
