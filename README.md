@@ -310,9 +310,9 @@ Watch this video if you are struggling with your selenium dependency: [Tutorial]
 
 ## Configuration
 
-> Fine-turing configuration
+> *Fine-tuning configuration*
 > - Bean wiring: Configuration that declares application components to be created
 as beans in the Spring application context and how they should be injected into
 each other
-> - Property injection:Configuration that sets values on beans in the Spring application
+> - Property injection: Configuration that sets values on beans in the Spring application
 context
