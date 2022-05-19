@@ -324,3 +324,11 @@ context
 
 ## YAML 
 
+_[Known as  ain’t markup language OR yet another markup language](https://www.redhat.com/en/topics/automation/what-is-yaml)
+
+> - Features that come from Perl, C, XML, HTML, and other programming languages. YAML is also a superset of JSON, so JSON files are valid in YAML.
+> - Python-style indentation to indicate nesting. 
+> - Tab characters are not allowed, so whitespaces are used instead. There are no usual format symbols, such as braces, square brackets, closing tags, or quotation marks. 
+> - YAML files use a .yml or .yaml extension. 
+> - The structure of a YAML file is a map or a list.
+> - Contains scalars, which are arbitrary data (encoded in Unicode) that can be used as values such as strings, integers, dates, numbers, or booleans.
