@@ -306,3 +306,13 @@ Go into your library and choose add extrnal jar and select your jar file.
 ![chooseyourseleniumjar](https://user-images.githubusercontent.com/83961643/169252633-818f940e-43c7-4d4e-a93b-608048db289a.jpeg)
 
 Watch this video if you are struggling with your selenium dependency: [Tutorial](https://www.youtube.com/watch?v=beWEdwfjF28)
+
+
+## Configuration
+
+> Fine-turing configuration
+> - Bean wiring: Configuration that declares application components to be created
+as beans in the Spring application context and how they should be injected into
+each other
+> - Property injection:Configuration that sets values on beans in the Spring application
+context
