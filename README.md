@@ -319,4 +319,4 @@ as beans in the Spring application context and how they should be injected into
 each other
 > - Property injection: Configuration that sets values on beans in the Spring application
 context
-![diagram](https://user-images.githubusercontent.com/83961643/169278563-8855f052-1577-46f2-807a-67794002006b.jpeg)
+![Data-3](https://user-images.githubusercontent.com/83961643/169282550-aaf0f659-ad1f-427e-aa5a-e61c5f8612bc.png)
