@@ -369,3 +369,13 @@ The 404 page not found code
 
 `localhost:8080/tacos/apis/3`
 ![3](https://user-images.githubusercontent.com/83961643/169480433-7a3fe0e2-751b-4b3b-883f-74c027008d7f.jpeg)
+
+`localhost:8080/ingredients`
+![ingredients](https://user-images.githubusercontent.com/83961643/169497774-f910c3eb-f281-4c5e-b603-2e9e6c61eec1.jpeg)
+
+`$ curl http://localhost:8080/ingredients/FLTO`
+![tortilla](https://user-images.githubusercontent.com/83961643/169497971-430436b7-b42f-4bc4-9239-688c4b6e44bd.jpeg)
+
+## [HATEOAS](https://restfulapi.net/hateoas/)
+_Hypermedia as the Engine of Application State_
+
