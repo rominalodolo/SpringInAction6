@@ -378,6 +378,18 @@ The 404 page not found code
 
 ![tortilla](https://user-images.githubusercontent.com/83961643/169497971-430436b7-b42f-4bc4-9239-688c4b6e44bd.jpeg)
 
+
+Adding 
+`spring:
+   data:
+     rest:
+       base-path: /data-api` to the application.yml file
+
+`$ curl http://localhost:8080/data-api/tacos`
+`$ curl http://localhost:8080/data-api/tacoes`
+![testing](https://user-images.githubusercontent.com/83961643/169501581-dfb451e5-f6b2-40a4-951e-2379033373fa.jpeg)
+
+
 ## [HATEOAS](https://restfulapi.net/hateoas/)
 _Hypermedia as the Engine of Application State_
 
