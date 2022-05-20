@@ -426,5 +426,6 @@ _Hypermedia as the Engine of Application State_
 > - RestTemplate—A straightforward, synchronous REST client provided by the core Spring Framework.
 > - Traverson—A wrapper around Spring’s RestTemplate, provided by Spring HATEOAS, to enable a hyperlink-aware, synchronous REST client. Inspired from a JavaScript library of the same name.
 > - WebClient—A reactive, asynchronous REST client.
+
 ![table](https://user-images.githubusercontent.com/83961643/169517833-3fdf1b40-80e5-4bb9-b321-986f5f93ee6b.jpeg)
 
