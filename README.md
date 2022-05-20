@@ -396,6 +396,9 @@ to the application.yml file
 
 ![api](https://user-images.githubusercontent.com/83961643/169503178-bfc5db40-edd3-40a2-90a8-f32c715fe07c.jpeg)
 
+
+Paging and Sorting
+requesting the first page of tacos where the page size is 5, you can issue the following GET request (using curl):
 `curl "localhost:8080/data-api/tacos?size=5"`
 ![pagingsorting](https://user-images.githubusercontent.com/83961643/169505241-4b06889d-ba30-45ab-8be2-c6bda8cae5d6.jpeg)
 
