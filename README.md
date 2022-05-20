@@ -393,6 +393,7 @@ to the application.yml file
 ![testing](https://user-images.githubusercontent.com/83961643/169501581-dfb451e5-f6b2-40a4-951e-2379033373fa.jpeg)
 
 `localhost:8080/data-api`
+
 ![api](https://user-images.githubusercontent.com/83961643/169503178-bfc5db40-edd3-40a2-90a8-f32c715fe07c.jpeg)
 
 
