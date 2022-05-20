@@ -362,3 +362,10 @@ RESTful Controllers:
 ![restful](https://user-images.githubusercontent.com/83961643/169476051-6f5742b0-246b-4fd5-b1e6-816d4a23c51f.jpeg)
 
 
+## Testing the Taco Application: 
+`localhost:8080/tacos/apis/4`
+The 404 page not found code 
+![HTTPanswer](https://user-images.githubusercontent.com/83961643/169480393-73f65c4e-bb0a-4b81-b2d5-d517549b7cf1.jpeg)
+
+`localhost:8080/tacos/apis/3`
+![3](https://user-images.githubusercontent.com/83961643/169480433-7a3fe0e2-751b-4b3b-883f-74c027008d7f.jpeg)
