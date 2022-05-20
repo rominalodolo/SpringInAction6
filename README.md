@@ -353,6 +353,12 @@ CommandLine test in Terminal
 ![commandlinetest](https://user-images.githubusercontent.com/83961643/169298049-280470c7-ff6f-4389-8cf9-9a4957d9fa2f.jpeg)
 
 RESTful Controllers:
+
+![05fig01](https://user-images.githubusercontent.com/83961643/169478139-edd47b0e-085f-415d-a070-24cb7ab7f066.jpg)
+![05fig02_alt](https://user-images.githubusercontent.com/83961643/169478159-fdbf7089-a572-4f82-80e5-be34fed86a8d.jpg)
+
+[Read more](https://livebook.manning.com/book/play-for-java/chapter-5/)
+
 ![restful](https://user-images.githubusercontent.com/83961643/169476051-6f5742b0-246b-4fd5-b1e6-816d4a23c51f.jpeg)
 
 
