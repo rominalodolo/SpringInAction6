@@ -380,10 +380,11 @@ The 404 page not found code
 
 
 Adding 
-`spring:
+```spring:
    data:
      rest:
-       base-path: /data-api` to the application.yml file
+       base-path: /data-api```
+to the application.yml file
 
 `$ curl http://localhost:8080/data-api/tacos`
 `$ curl http://localhost:8080/data-api/tacoes`
