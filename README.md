@@ -421,3 +421,8 @@ Chrome Browser - Add the JSON viewer extension
 ## [HATEOAS](https://restfulapi.net/hateoas/)
 _Hypermedia as the Engine of Application State_
 
+## Consuming REST services
+> _A Spring application can consume a REST API with the following:_
+> - RestTemplate—A straightforward, synchronous REST client provided by the core Spring Framework.
+> - Traverson—A wrapper around Spring’s RestTemplate, provided by Spring HATEOAS, to enable a hyperlink-aware, synchronous REST client. Inspired from a JavaScript library of the same name.
+> - WebClient—A reactive, asynchronous REST client.
