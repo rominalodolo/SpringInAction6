@@ -405,6 +405,18 @@ requesting the first page of tacos where the page size is 5, you can issue the f
 ![pagingsorting](https://user-images.githubusercontent.com/83961643/169505241-4b06889d-ba30-45ab-8be2-c6bda8cae5d6.jpeg)
 
 
+Links working: 
+
+Firefox Browser 
+
+![firefox](https://user-images.githubusercontent.com/83961643/169516233-ee9d3a1a-7a9b-4af9-9fbb-79373461407e.jpeg)
+
+Chrome Browser - Add the JSON viewer extension 
+
+![localhost](https://user-images.githubusercontent.com/83961643/169516199-c2b9fbbb-b46f-4e17-b70b-f22d9cce0f8e.jpeg)
+
+
+
 ## [HATEOAS](https://restfulapi.net/hateoas/)
 _Hypermedia as the Engine of Application State_
 
